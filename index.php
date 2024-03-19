@@ -33,3 +33,5 @@ $aboute = mysqli_query($connect,"SELECT * FROM films");
     </div>
 </main>
 <?php require_once __DIR__ . "/headfoot/footer.php";?>
+
+
